@@ -1,2 +1,3 @@
 # RISK-MANAGEMENT-WITH-FAIR
-Risk management and risk quaquantification 
+Risk management and risk quantification  Stay tuned
+
