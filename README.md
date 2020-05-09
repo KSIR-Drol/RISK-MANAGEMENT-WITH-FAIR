@@ -22,7 +22,7 @@ Table of Contents
          * [Other FAIR Definitions](#other-fair-definitions)
       * [Definitions of the OWASP Top 10](#definitions-of-the-owasp-top-10)
 
-# Introduction to assessing risk with the FAIR model.
+# Introduction to assessing risk with the FAIR model
 
 ### What is Fair?
 FAIR is an internationally accepted quantitative risk analysis framework that describes what risk is, how it works and how to quantify it.
