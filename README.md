@@ -1,7 +1,3 @@
-# RISK-MANAGEMENT-WITH-FAIR
-Risk management and risk quantification  Stay tuned
-
-
 # Risk Assessment
 
 My collection of files from my studies.
