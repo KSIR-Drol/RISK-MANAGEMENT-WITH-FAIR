@@ -59,7 +59,7 @@ People, things, *or* groups of either.
 
 Not all threats imply malicious intent, either.
 
-# # Definitions of the OWASP Top 10
+# Definitions of the OWASP Top 10
 
 OWASP tracked the breaches and incidents of major governments and organizations.
 
